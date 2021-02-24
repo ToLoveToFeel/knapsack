@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Cplusplus" targetName="_01_knapsack01_main" />
+      <config projectName="Cplusplus" targetName="_04_knapsackhybrid_main" />
+      <config projectName="Cplusplus" targetName="_06_knapsackgroup_main" />
+      <config projectName="Cplusplus" targetName="_01_knapsack01_main3" />
+      <config projectName="Cplusplus" targetName="_01_knapsack01_main2" />
+      <config projectName="Cplusplus" targetName="_05_knapsackhy2d_main" />
+      <config projectName="Cplusplus" targetName="_02_knapsackcomplete_main3" />
+      <config projectName="Cplusplus" targetName="_02_knapsackcomplete_main2" />
+      <config projectName="Cplusplus" targetName="_03_knapsackmulti_1_main" />
+      <config projectName="Cplusplus" targetName="_03_knapsackmulti_2_main" />
+      <config projectName="Cplusplus" targetName="_09_knapsackdependency_main" />
+      <config projectName="Cplusplus" targetName="_07_knapsacksolutionnum_main" />
+      <config projectName="Cplusplus" targetName="_08_knapsacksolution_main" />
+      <config projectName="Cplusplus" targetName="_03_knapsackmulti_3_main" />
+      <config projectName="Cplusplus" targetName="_02_knapsackcomplete_main" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4de56239-7f72-4ccc-b68b-90e1bdec4c60" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ounD1YjmVVuPJkRPLud2pLPpo7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_08_knapsacksolution" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Share\knapsack\code\Cplusplus\_08_knapsacksolution" />
+      <recent name="E:\Share\knapsack\code\Cplusplus\_07_knapsacksolutionnum" />
+      <recent name="E:\Share\knapsack\code\Cplusplus\_09_knapsackdependency" />
+      <recent name="E:\Share\knapsack\code\Cplusplus\_06_knapsackgroup" />
+      <recent name="E:\Share\knapsack\code\Cplusplus\_05_knapsackhy2d" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application._09_knapsackdependency_main">
+    <configuration name="_01_knapsack01_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cplusplus" TARGET_NAME="_01_knapsack01_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cplusplus" RUN_TARGET_NAME="_01_knapsack01_main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_01_knapsack01_main2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cplusplus" TARGET_NAME="_01_knapsack01_main2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cplusplus" RUN_TARGET_NAME="_01_knapsack01_main2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_01_knapsack01_main3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cplusplus" TARGET_NAME="_01_knapsack01_main3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cplusplus" RUN_TARGET_NAME="_01_knapsack01_main3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02_knapsackcomplete_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cplusplus" TARGET_NAME="_02_knapsackcomplete_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cplusplus" RUN_TARGET_NAME="_02_knapsackcomplete_main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02_knapsackcomplete_main2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cplusplus" TARGET_NAME="_02_knapsackcomplete_main2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cplusplus" RUN_TARGET_NAME="_02_knapsackcomplete_main2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02_knapsackcomplete_main3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cplusplus" TARGET_NAME="_02_knapsackcomplete_main3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cplusplus" RUN_TARGET_NAME="_02_knapsackcomplete_main3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03_knapsackmulti_1_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cplusplus" TARGET_NAME="_03_knapsackmulti_1_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cplusplus" RUN_TARGET_NAME="_03_knapsackmulti_1_main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03_knapsackmulti_2_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cplusplus" TARGET_NAME="_03_knapsackmulti_2_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cplusplus" RUN_TARGET_NAME="_03_knapsackmulti_2_main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03_knapsackmulti_3_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cplusplus" TARGET_NAME="_03_knapsackmulti_3_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cplusplus" RUN_TARGET_NAME="_03_knapsackmulti_3_main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_04_knapsackhybrid_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cplusplus" TARGET_NAME="_04_knapsackhybrid_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cplusplus" RUN_TARGET_NAME="_04_knapsackhybrid_main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_05_knapsackhy2d_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cplusplus" TARGET_NAME="_05_knapsackhy2d_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cplusplus" RUN_TARGET_NAME="_05_knapsackhy2d_main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_06_knapsackgroup_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cplusplus" TARGET_NAME="_06_knapsackgroup_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cplusplus" RUN_TARGET_NAME="_06_knapsackgroup_main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_07_knapsacksolutionnum_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cplusplus" TARGET_NAME="_07_knapsacksolutionnum_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cplusplus" RUN_TARGET_NAME="_07_knapsacksolutionnum_main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_08_knapsacksolution_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cplusplus" TARGET_NAME="_08_knapsacksolution_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cplusplus" RUN_TARGET_NAME="_08_knapsacksolution_main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_09_knapsackdependency_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cplusplus" TARGET_NAME="_09_knapsackdependency_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cplusplus" RUN_TARGET_NAME="_09_knapsackdependency_main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application._01_knapsack01_main2" />
+      <item itemvalue="CMake Application._01_knapsack01_main3" />
+      <item itemvalue="CMake Application._01_knapsack01_main" />
+      <item itemvalue="CMake Application._02_knapsackcomplete_main2" />
+      <item itemvalue="CMake Application._02_knapsackcomplete_main3" />
+      <item itemvalue="CMake Application._02_knapsackcomplete_main" />
+      <item itemvalue="CMake Application._03_knapsackmulti_1_main" />
+      <item itemvalue="CMake Application._03_knapsackmulti_2_main" />
+      <item itemvalue="CMake Application._03_knapsackmulti_3_main" />
+      <item itemvalue="CMake Application._04_knapsackhybrid_main" />
+      <item itemvalue="CMake Application._05_knapsackhy2d_main" />
+      <item itemvalue="CMake Application._06_knapsackgroup_main" />
+      <item itemvalue="CMake Application._07_knapsacksolutionnum_main" />
+      <item itemvalue="CMake Application._08_knapsacksolution_main" />
+      <item itemvalue="CMake Application._09_knapsackdependency_main" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4de56239-7f72-4ccc-b68b-90e1bdec4c60" name="Default Changelist" comment="" />
+      <created>1614145219057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614145219057</updated>
+      <workItem from="1614145220330" duration="36000" />
+      <workItem from="1614145322317" duration="41000" />
+      <workItem from="1614145393954" duration="18691000" />
+      <workItem from="1614184956913" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614145445781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1614145445781" />
+    <state width="1876" height="251" key="GridCell.Tab.0.bottom" timestamp="1614181806302">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614181806302" />
+    <state width="1876" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1614149805299" />
+    <state width="1876" height="251" key="GridCell.Tab.0.center" timestamp="1614181806301">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="251" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614181806301" />
+    <state width="1876" height="375" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1614149805299" />
+    <state width="1876" height="251" key="GridCell.Tab.0.left" timestamp="1614181806301">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="251" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614181806301" />
+    <state width="1876" height="375" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1614149805299" />
+    <state width="1876" height="251" key="GridCell.Tab.0.right" timestamp="1614181806301">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="251" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1614181806301" />
+    <state width="1876" height="375" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1614149805299" />
+  </component>
+</project>
