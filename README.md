@@ -14,5 +14,5 @@
 */
 ```
 
-* Cplusplus文件夹可以使用CLion直接打开
-* Java文件夹可以使用IDEA直接打开
+* Cplusplus 文件夹可以使用CLion直接打开
+* Java 文件夹可以使用IDEA直接打开
